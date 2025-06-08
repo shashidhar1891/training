@@ -1,9 +1,4 @@
 
-
-call addition();
-
-call substraction();
-
-call division();
-
-call multiplication();
+main calculatorApp {
+    call addition();
+}
